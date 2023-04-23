@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dell-ico {
+  cursor: pointer;
+  transition: transform 1000ms ease;
+}
+
+.dell-ico:hover {
+  transform: scale(1.3);
+}
